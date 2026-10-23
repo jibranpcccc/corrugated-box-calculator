@@ -1,0 +1,57 @@
+{
+  "factory": "Barkat Packaging",
+  "location": "Plot F 9, S.I.T.E. Industrial Area, Hyderabad, Sindh 71800, Pakistan",
+  "phone": "+92-333-2622963",
+  "website": "https://barkatcartons.com/",
+  "specifications": {
+    "flutes": {
+      "B_flute": {"thickness_mm": 3.0, "flutes_per_meter": 150, "application": "Die-cut boxes, postal cartons, retail display"},
+      "C_flute": {"thickness_mm": 4.0, "flutes_per_meter": 120, "application": "Shipping master cartons, general packaging"},
+      "E_flute": {"thickness_mm": 1.5, "flutes_per_meter": 290, "application": "Micro-flute folding cartons, cosmetics, lightweight"},
+      "BC_flute": {"thickness_mm": 7.0, "flutes_per_meter": 270, "application": "5-ply heavy duty export shipping cartons, fruit exports"}
+    },
+    "standard_cartons": [
+      {
+        "type": "3-Ply Single Wall",
+        "bursting_strength_kpa": "600 - 900",
+        "recommended_max_load_kg": 15,
+        "primary_uses": "E-commerce deliveries, garment packing, retail parcels",
+        "url": "https://barkatcartons.com/products.html"
+      },
+      {
+        "type": "5-Ply Double Wall Master Carton",
+        "bursting_strength_kpa": "1100 - 1600",
+        "recommended_max_load_kg": 35,
+        "primary_uses": "Export shipments, industrial transit, bulk goods",
+        "url": "https://barkatcartons.com/products.html"
+      },
+      {
+        "type": "7-Ply Triple Wall Heavy Duty",
+        "bursting_strength_kpa": "2000+",
+        "recommended_max_load_kg": 75,
+        "primary_uses": "Heavy machinery, automotive parts, chemical containers",
+        "url": "https://barkatcartons.com/products.html"
+      },
+      {
+        "type": "Cardboard Sheets & Layer Pads",
+        "dimensions": ["30x40 inches", "40x60 inches"],
+        "primary_uses": "Pallet layer separation, wrapping protection, bookbinding",
+        "url": "https://barkatcartons.com/products.html"
+      }
+    ],
+    "agricultural_export_packaging": [
+      {
+        "produce": "Sindhri & Chaunsa Mango Export Cartons",
+        "capacities_kg": [2.0, 4.0, 5.0, 10.0],
+        "features": "Side-ventilation die-cuts, moisture-resistant Kraft liner, high stacking ECT",
+        "url": "https://barkatcartons.com/agro-packaging.html"
+      },
+      {
+        "produce": "Empty Khajoor (Date) Packaging Boxes",
+        "capacities_kg": [0.5, 1.0, 2.0, 5.0, 10.0],
+        "features": "Food-grade duplex top liner, transparent window cutout option, bulk master cartons",
+        "url": "https://barkatcartons.com/agro-packaging.html"
+      }
+    ]
+  }
+}
